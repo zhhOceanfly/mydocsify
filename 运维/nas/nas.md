@@ -3,12 +3,13 @@
 ### 数据nas
 - 172.16.167.220 
 - 浏览器登录：**https://thxr-data.quickconnect.cn**
+  - **https://172-16-167-220.thxr-data.direct.quickconnect.cn:5001/#/signin**
 - 共享文件中心
     ![](../../image/nas7.png)
 
 ### 项管平台nas
 - 192.168.1.88/172.16.167.221
-- 浏览器登录：**https://thxr-devops.quickconnect.cn**
+- 浏览器登录：**https://172-16-167-221.thxr-devops.direct.quickconnect.cn:5001/**
 - 部署项管平台，日常运维需检测container是否正常运行
     ![](../../image/nas1.png)
     ![](../../image/nas2.png)
